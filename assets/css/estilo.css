@@ -1,0 +1,19 @@
+.wrapper{
+  width: 1280px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 100px;
+  display: inline;
+  margin: 50px;
+}
+
+img{
+  height: 100px;
+  display: inline;
+}
+
+p{
+  font-size: 20px;
+}
